@@ -1,0 +1,38 @@
+id: IF08F8FC3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:24:07.785614'
+last_modified: '2022-06-19T04:24:07.785650'
+parser: null
+source_metadata:
+  title: Record on the Transmission of the Lam bras Slob bshad and Tshogs bshad Teachings;
+    Lamdre Lobshe, vol. wa, title no. 7
+  author: འཇམ་དབྱངས་བློ་གཏེར་དབང་པོ།
+  description: 'Digital version 2.1 {Tibetan}; master xml (completed: 2013-09-09);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/586
+  bases:
+    f9c1:
+      title: Record on the Transmission of the Lam bras Slob bshad and Tshogs bshad
+        Teachings; Lamdre Lobshe, vol. wa, title no. 7
+      order: 1
+      base_file: f9c1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
